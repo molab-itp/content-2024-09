@@ -56,7 +56,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 - 09:00 AM - 12:00 PM Friday
 - 370 Jay St Room 408 Loc: Brooklyn Campus
 
-| Week | Date       |
+| Week | Date       |               |
 | :--- | :--------- | ------------- |
 | 01.  | 2024-09-06 |
 | 02.  | 2024-09-13 |
@@ -70,7 +70,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 | 10.  | 2024-11-08 |
 | 11.  | 2024-11-15 |
 | 12.  | 2024-11-22 |
-| ---  | 2024-11-29 | -- No Class.  |
+| ---  | 2024-11-29 | --No Class--  |
 | 13.  | 2024-12-06 |
 | 14.  | 2024-12-11 | -- Wednesday! |
 
