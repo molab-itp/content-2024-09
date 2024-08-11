@@ -42,8 +42,10 @@ We aim to create distributed instruments for computed expression.
 
 ## Swift Programming
 
-- history and evolution
+- [Swift Programming history](<https://en.wikipedia.org/wiki/Swift_(programming_language)>)
+- [changes](https://www.hackingwithswift.com/swift)
 
+  - 2024 Swift 5.10.1 June 5, 2024
   - 2023 Swift 5.8.1 June 1, 2023
   - 2022 Swift 5.7.1 November 1, 2022
   - 2019 Swift 5.0 March 25, 2019
