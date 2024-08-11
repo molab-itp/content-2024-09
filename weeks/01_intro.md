@@ -135,7 +135,7 @@ Course example repos
 
 - [github.com/molab-itp](https://github.com/molab-itp)
 
-- [homework page](https://github.com/molab-itp/content-2024-01/wiki)
+- [homework page](https://github.com/molab-itp/content-2024-09/wiki)
 
 ## In Class Exercises
 
@@ -156,7 +156,7 @@ Course example repos
 
 - opt-in to public exposure,
   pick your [nom de plume / pen name / pseudonym](https://en.wikipedia.org/wiki/Pen_name)
-  for your [student wiki page](https://github.com/molab-itp/content-2024-01/wiki)
+  for your [student wiki page](https://github.com/molab-itp/content-2024-09/wiki)
 - add your student wiki page and write:
 
   - what programming languages have you used? how much?
@@ -181,7 +181,7 @@ Course example repos
 
 - commit and push the updates to your repo
 
-- add a link to your playground on [wiki home page](https://github.com/molab-itp/content-2024-01/wiki#week-01-homework)
+- add a link to your playground on [wiki home page](https://github.com/molab-itp/content-2024-09/wiki#week-01-homework)
 
 ## Homework Week01
 
@@ -226,7 +226,7 @@ option 4:
 - example: [01-Playground generative random](https://github.com/molab-itp/01-Playground/blob/main/01-Playground.playground/Pages/generative%20random.xcplaygroundpage/Contents.swift)
 - store the playground in your classwork repo in folder Week01 and update the repo
 
-- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2024-01/wiki#week-01-homework)
+- add a link to your playground on the [wiki home page](https://github.com/molab-itp/content-2024-09/wiki#week-01-homework)
 
 - document issues/errors in comments
 - save source of any errors
@@ -254,7 +254,7 @@ option 4:
 # select location of wiki
 cd ~/Documents
 # clone local copy of wiki
-git clone https://github.com/molab-itp/content-2024-01.wiki.git
+git clone https://github.com/molab-itp/content-2024-09.wiki.git
 ``` -->
 
 <!--

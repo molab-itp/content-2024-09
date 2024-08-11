@@ -27,7 +27,7 @@
 # select location of wiki
 cd ~/Documents
 # clone local copy of wiki
-git clone https://github.com/molab-itp/content-2024-01.wiki.git
+git clone https://github.com/molab-itp/content-2024-09.wiki.git
 
 # basic commands
 
@@ -111,6 +111,6 @@ source ~/.zshrc
 
 - add a link to your Week02 folder on the
 
-  - [wiki home page](https://github.com/molab-itp/content-2024-01/wiki#week-02-homework)
+  - [wiki home page](https://github.com/molab-itp/content-2024-09/wiki#week-02-homework)
 
   - update your wiki page with any issues

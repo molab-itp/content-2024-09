@@ -53,7 +53,7 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 - create a Week06 folder for your project and add link to it here:
 
-  - [wiki home page week06](https://github.com/molab-itp/content-2024-01/wiki#week-06-homework)
+  - [wiki home page week06](https://github.com/molab-itp/content-2024-09/wiki#week-06-homework)
 
   - update your wiki page with your
     - progress,

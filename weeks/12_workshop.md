@@ -28,7 +28,7 @@
 
   - progress | problems| plans | questions
 
-- [wiki home page week12](https://github.com/molab-itp/content-2024-01/wiki#week-12-homework)
+- [wiki home page week12](https://github.com/molab-itp/content-2024-09/wiki#week-12-homework)
 
 <!-- ### ARGeoTracking demo apps
 

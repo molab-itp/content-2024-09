@@ -64,7 +64,7 @@
 
 - create a Week08 folder for your project and add link to it here:
 
-- [wiki home page week08](https://github.com/molab-itp/content-2024-01/wiki#week-08-homework)
+- [wiki home page week08](https://github.com/molab-itp/content-2024-09/wiki#week-08-homework)
 
   - update your wiki page with your
     - progress,
