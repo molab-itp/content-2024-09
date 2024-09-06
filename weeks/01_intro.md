@@ -91,7 +91,7 @@ learn swift programming fundamentals by week 3
 
 1 - 2 hours overview for experienced coders. pick one.
 
-- [Swift in 100 Seconds - YouTube](https://www.youtube.com/watch?v=nAchMctX4YA)
+- [Swift in 100 Seconds - YouTube](https://www.youtube.com/watch?v=nAchMctX4YA) - [mo-videoplayer](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer?playlist=nAchMctX4YA)
 
 - [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
 
