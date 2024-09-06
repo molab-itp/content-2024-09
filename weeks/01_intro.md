@@ -89,7 +89,7 @@ learn swift programming fundamentals by week 3
 
 ### Swift Programming Quick Review
 
-1 - 2 hours overview for experienced coders. pick one.
+1 - 2 hours overview for experienced coders. pick one. Good to do after learning Swift fundamentals.
 
 - [Swift in 100 Seconds - YouTube](https://www.youtube.com/watch?v=nAchMctX4YA) - [mo-videoplayer](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer?playlist=nAchMctX4YA)
 
