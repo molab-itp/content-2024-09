@@ -93,7 +93,7 @@ learn swift programming fundamentals by week 3
 
 - [Swift in 100 Seconds - YouTube](https://www.youtube.com/watch?v=nAchMctX4YA) - [mo-videoplayer](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer?playlist=nAchMctX4YA)
 
-- [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour)
+- [learn-essential-swift-in-one-hour](https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour) - [mo-videoplayer](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer?playlist=n5X_V81OYnQ)
 
 - [Learn Swift for C++ Developers](https://www.advancedswift.com/learn-swift-cpp/)
 
