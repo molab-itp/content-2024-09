@@ -176,7 +176,7 @@ Course example repos
   - [01-Javascript-to-Swift](https://github.com/molab-itp/01-Javascript-to-Swift)
   - [01-Playground](https://github.com/molab-itp/01-Playground)
 
-- create a git repo for your class work, name it **molab-2024-01-yourNickName**
+- create a git repo for your class work, name it **molab-2024-09-yourNickName**
 
   - make sure README.md option is checked
   - add **jht9629-nyu** as a collaborator
