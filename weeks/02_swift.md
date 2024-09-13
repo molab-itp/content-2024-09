@@ -85,6 +85,10 @@ source ~/.zshrc
   - Browsing Your Photos - Apple Tutorial Tutorial
   - [Uses Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12)
 
+- [Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
+
+  - Storage to local file system
+
 - [98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
 
   - Tutorial adapted to Xcode project
