@@ -21,11 +21,15 @@
 
 ### Terminal basics
 
+- Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2024-09/wiki)
+
 ```
 # script to clone the class wiki
 # enter in Terminal app
+
 # select location of wiki
 cd ~/Documents
+
 # clone local copy of wiki
 git clone https://github.com/molab-itp/content-2024-09.wiki.git
 
