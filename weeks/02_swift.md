@@ -75,6 +75,14 @@ source ~/.zshrc
 - Intro to Playgrounds and Xcode
 - Building on Apple sample code to create your own app
 
+### Xcode targets
+
+- Preview
+- Simulator
+- Device
+
+### examples
+
 - [03-About-Me](https://github.com/molab-itp/03-About-Me)
 
   - https://developer.apple.com/tutorials/sample-apps/aboutme
