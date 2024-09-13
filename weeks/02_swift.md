@@ -19,6 +19,19 @@
 
 - [Unwrap app - test your Swift programming fundamentals](https://apps.apple.com/us/app/unwrap/id1440611372)
 
+## Setup
+
+### Finder config
+
+- finder preference to show full file names
+
+  - settings / advanced
+
+- finder command-/ show available disk space
+
+- finder show hidden files
+  - Press Command + Shift + . (period)
+
 ### Terminal basics
 
 - Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2024-09/wiki)
