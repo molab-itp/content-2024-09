@@ -74,7 +74,7 @@ source ~/.zshrc
 
 ## break
 
-## Demos
+## Demos Apps
 
 - Intro to Playgrounds and Xcode
 - Building on Apple sample code to create your own app
@@ -85,7 +85,7 @@ source ~/.zshrc
 - Simulator
 - Device
 
-### examples
+### example apps
 
 - [03-About-Me](https://github.com/molab-itp/03-About-Me)
 
