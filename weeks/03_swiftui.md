@@ -117,6 +117,8 @@ Part 2. begin research on your final project
 
 ### SwiftUI App Resources
 
+- [wwdc19 Introducing SwiftUI: Building Your First App](https://wwdcnotes.com/documentation/wwdcnotes/wwdc19-204-introducing-swiftui-building-your-first-app)
+
 - [apple documentation swiftui](https://developer.apple.com/documentation/swiftui/)
 
 - [WWDC 2019 Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/) ~ 55min
