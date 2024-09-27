@@ -20,6 +20,13 @@
 
 ### [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
 
+- fix .gitignore
+
+```
+.DS_Store
+**/xcuserdata/
+```
+
 - using the asset catalog
 
 ```
