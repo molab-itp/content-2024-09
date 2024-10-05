@@ -20,6 +20,11 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - [source repo](https://github.com/twostraws/iDine)
   - [hackingwithswift.com swiftui-tutorial](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
+## Router model for navigation
+
+- [06-Router](https://github.com/molab-itp/06-Router)
+  - Replaces NavigationView with Router PageModel: ObservableObject
+
 ## Saving Data Demos
 
 - [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)

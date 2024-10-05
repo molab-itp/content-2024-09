@@ -16,11 +16,6 @@
 
 - photo library access
 
-## Review
-
-- [06-Router](https://github.com/molab-itp/06-Router)
-  - Replaces NavigationView with Router PageModel: ObservableObject
-
 ### Demo Apps
 
 - [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
