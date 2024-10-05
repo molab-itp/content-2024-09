@@ -89,6 +89,7 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 Sample code is recommend starting point for exploring what's possible for a final project.
 Download and verify the sample works before investing your time in further research.
 
+- [WWDC sample code 2024](https://developer.apple.com/sample-code/wwdc/2024/)
 - [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
