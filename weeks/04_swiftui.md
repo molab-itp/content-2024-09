@@ -1,6 +1,6 @@
 # Week 04 Swift UI 2, Audio
 
-## [Previous](./03_swiftui.md) [Next](./03_swiftui.md)
+## [Previous](./03_swiftui.md) [Next](./05_data.md)
 
 - [03-closures-ints-strings](https://github.com/molab-itp/03-closures-ints-strings)
 

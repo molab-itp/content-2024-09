@@ -1,6 +1,6 @@
 # Week 03 Swift UI 1, Images
 
-## [Previous](./02_swift.md) [Next](./03_swiftui.md)
+## [Previous](./02_swift.md) [Next](./04_swiftui.md)
 
 <!--
 ## Resource checkin
