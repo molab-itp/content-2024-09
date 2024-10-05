@@ -1,6 +1,6 @@
 # Week 05 Local Data 1, Sensors
 
-## [Review Resources](./04_swiftui.md)
+## [Previous](./04_swiftui.md) [Next](./04_swiftui.md)
 
 - [swiftui - documentation](https://developer.apple.com/documentation/swiftui)
 - [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)

@@ -1,5 +1,7 @@
 # Week 03 Swift UI 1, Images
 
+## [Previous](./02_swift.md) [Next](./03_swiftui.md)
+
 <!--
 ## Resource checkin
 - [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
@@ -7,8 +9,6 @@
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 - [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
 -->
-
-## [Review Resources](./02_swift.md)
 
 ## Plan
 

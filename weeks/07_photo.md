@@ -1,5 +1,7 @@
 # Week 07 Photo Media
 
+## [Previous](./06_data.md) [Next](./08_video.md)
+
 ## Plan
 
 - questions

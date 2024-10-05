@@ -2,6 +2,8 @@
 
 We aim to create distributed instruments for computed expression.
 
+## [Next](./02_swift.md)
+
 ## Before next class
 
 - [github account setup](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) - if you don't already have one.
