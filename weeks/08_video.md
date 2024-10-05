@@ -1,6 +1,6 @@
 # Week 08 Video Media
 
-## [Previous](./07_photo.md)] [[Next](./09_multi.md)]
+## [[Previous](./07_photo.md)] [[Next](./09_multi.md)]
 
 ## Plan
 

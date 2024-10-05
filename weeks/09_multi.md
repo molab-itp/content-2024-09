@@ -1,6 +1,6 @@
 # Week 09 Multi User Experience 1
 
-## [Previous](./08_video.md)] [[Next](./10_multi.md)]
+## [[Previous](./08_video.md)] [[Next](./10_multi.md)]
 
 ## Plan
 
