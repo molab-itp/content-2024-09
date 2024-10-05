@@ -2,7 +2,7 @@
 
 We aim to create distributed instruments for computed expression.
 
-## [Next](./02_swift.md)
+## [[Next](./02_swift.md)]
 
 ## Before next class
 

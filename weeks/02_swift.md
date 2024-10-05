@@ -1,6 +1,6 @@
 # Week 02 Swift Programming 2, Anatomy of an iOS App
 
-## [Previous](./01_intro.md) [Next](./03_swiftui.md)
+## [[Previous](./01_intro.md)] [[Next](./03_swiftui.md)]
 
 ## Plan
 
