@@ -12,14 +12,14 @@
 
 ## Swift language creation and evolution
 
-- [Ignite - static site builder for Swift developers](https://github.com/twostraws/Ignite)
-
-- [vapor - Swift, but on a server](https://vapor.codes/)
-
 - [Chris_Lattner](https://en.wikipedia.org/wiki/Chris_Lattner)
 
   - key person behind the creation and evolution of the Swift language
   - current project: https://www.modular.com/
+
+- [vapor - Swift, but on a server](https://vapor.codes/)
+
+- [Ignite - static site builder for Swift developers](https://github.com/twostraws/Ignite)
 
 ## Resources
 
@@ -27,7 +27,7 @@
   - exploration flow examples
   - EarthFlags - Origin Story
 
-### exploration flow examples
+### Flag-Flow supporting example repos
 
 - a-repos/HitTestApp
   -- SwiftUI Scenekit hit testing example.
