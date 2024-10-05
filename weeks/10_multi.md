@@ -1,5 +1,7 @@
 # Week 10 Multi User Experience 2
 
+## [[Previous](./09_multi.md)] [[Next](./11_proposal.md)]
+
 ## Plan
 
 - questions

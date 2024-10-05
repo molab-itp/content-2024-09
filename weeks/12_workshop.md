@@ -1,5 +1,7 @@
 # Week 12 Final Project Workshop 2
 
+## [[Previous](./11_proposal.md)] [[Next](./13_workshop.md)]
+
 ## Plan
 
 - Document work on your final project in your wiki page.

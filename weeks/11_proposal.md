@@ -1,5 +1,7 @@
 # Week 11 Final Project Proposal - Workshop 1
 
+## [[Previous](./10_multi.md)] [[Next](./12_workshop.md)]
+
 ## Plan
 
 - Pair up to update your final project proposal in your wiki page.

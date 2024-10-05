@@ -1,5 +1,7 @@
 # Week 13 Final Project Workshop 3
 
+## [[Previous](./12_workshop.md)] [[Next](./14_presentation.md)]
+
 ## Questions
 
 ## Homework Week13
