@@ -1,6 +1,6 @@
 # Week 06 Local Data 2, More SwiftUI
 
-## [Rewiew Resources](./05_data.md)
+## [Review Resources](./05_data.md)
 
 ## Plan
 

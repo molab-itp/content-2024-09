@@ -1,6 +1,6 @@
 # Week 02 Swift Programming 2, Anatomy of an iOS App
 
-## [Rewiew Resources](./01_intro.md)
+## [Review Resources](./01_intro.md)
 
 ## Plan
 
@@ -145,3 +145,5 @@ source ~/.zshrc
   - [wiki home page](https://github.com/molab-itp/content-2024-09/wiki#week-02-homework)
 
   - update your wiki page with any issues
+
+## [Next](./03_swiftui.md)

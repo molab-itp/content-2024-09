@@ -8,7 +8,7 @@
 - [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
 -->
 
-## [Rewiew Resources](./02_swift.md)
+## [Review Resources](./02_swift.md)
 
 ## Plan
 

@@ -238,6 +238,8 @@ option 4:
 - document issues/errors in comments
 - save source of any errors
 
+## [Next](./02_swift.md)
+
 <!--
 - review the Swift resources
 - select resource(s) for learning Swift programming fundamentals
