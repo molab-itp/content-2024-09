@@ -1,8 +1,8 @@
 # Week 01 Introduction
 
-We aim to create distributed instruments for computed expression.
-
 ## [[Next](./02_swift.md)]
+
+We aim to create distributed instruments for computed expression.
 
 ## Before next class
 
