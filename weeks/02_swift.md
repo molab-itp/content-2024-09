@@ -1,5 +1,7 @@
 # Week 02 Swift Programming 2, Anatomy of an iOS App
 
+## [Rewiew Resources](./01_intro.md)
+
 ## Plan
 
 - review homework & corrections
