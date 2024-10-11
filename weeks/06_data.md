@@ -47,8 +47,14 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 - Use the Router model for naviation
 - Based on:
+
   - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
   - renaming and remixing Xcode project | recommended steps
+
+- build BasicNav
+  - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
+  - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
+  - add PlayAudioView from [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
 ## Homework Week06
 
