@@ -20,10 +20,20 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - [source repo](https://github.com/twostraws/iDine)
   - [hackingwithswift.com swiftui-tutorial](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
-## Router model for navigation
+## In Class Exercise
 
-- [06-Router](https://github.com/molab-itp/06-Router)
-  - Replaces NavigationView with Router PageModel: ObservableObject
+- Use the Router model for naviation
+- Based on:
+
+  - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
+  - renaming and remixing Xcode project | recommended steps
+  - [06-Router](https://github.com/molab-itp/06-Router)
+    - Replaces NavigationView with Router PageModel: ObservableObject
+
+- build BasicNav
+  - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
+  - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
+  - add PlayAudioView from [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
 ## Saving Data Demos
 
@@ -42,19 +52,6 @@ Examples of using data, typically stored as JSON, to describe the navigational l
   - [use-codable-protocol-in-swift](https://www.kodeco.com/books/swift-cookbook/v1.0/chapters/4-use-codable-protocol-in-swift)
   - Generic functions in SaveLoadJSON.swift
   - Examine JSON file using Terminal App
-
-## In Class Exercise
-
-- Use the Router model for naviation
-- Based on:
-
-  - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
-  - renaming and remixing Xcode project | recommended steps
-
-- build BasicNav
-  - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
-  - add [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
-  - add PlayAudioView from [04-Audio-State-Demo](https://github.com/molab-itp/04-Audio-State-Demo)
 
 ## Homework Week06
 

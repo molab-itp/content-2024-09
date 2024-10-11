@@ -18,9 +18,10 @@
 
 ### Demo Apps
 
-- [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
+<!-- - [07-SlideShowDemo](https://github.com/molab-itp/07-SlideShowDemo)
 
   - use AudioDJ as environmentObject so that audio can presists between views
+ -->
 
 - [07-PhotoPickBlender](https://github.com/molab-itp/07-PhotoPickBlender)
 
@@ -57,7 +58,7 @@
 
 - [CoreImageFilterReference ](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Reference/CoreImageFilterReference/index.html)
 
-- [methods_and_protocols_for_filter_creation - apple dev doc](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation)
+<!-- - [methods_and_protocols_for_filter_creation - apple dev doc](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation) -->
 
 ## Homework Week07
 
