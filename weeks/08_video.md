@@ -54,6 +54,8 @@
 
 ## Homework Week08
 
+- Midterm assessment requirement:
+  - Make sure your wiki page has at least one entry for each for the past weeks.
 - Option 1: work on previous assignments
 
   - create place holder folders for past assigments
