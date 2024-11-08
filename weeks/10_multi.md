@@ -60,12 +60,13 @@
   - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
 
 - Adam Jonah
+
   - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
     - tuttO - get flirty!
   - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
     - BIG SIGNAL: SUMMON HELP 1CLICK
 
-* Ahmed DB
+- Ahmed DB
   - [wk 14](https://github.com/Ahmed54123/Ahmed_molab-2023/tree/main/Final%20Assets), [figma mockup](https://www.figma.com/file/pD43XutC2079OJenlvmMP1/Fridge?type=design&node-id=0-1&mode=design&t=GmVAiVgbJBCplJ14-0), [Final Presentation](https://www.canva.com/design/DAF3maDvjZQ/9GW_SIBZTIrSAIPXfpAOEg/edit?utm_content=DAF3maDvjZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### swift-student-challenge
