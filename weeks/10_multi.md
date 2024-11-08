@@ -67,7 +67,7 @@
     - BIG SIGNAL: SUMMON HELP 1CLICK
 
 - Ahmed DB
-  - [wk 14](https://github.com/Ahmed54123/Ahmed_molab-2023/tree/main/Final%20Assets), [figma mockup](https://www.figma.com/file/pD43XutC2079OJenlvmMP1/Fridge?type=design&node-id=0-1&mode=design&t=GmVAiVgbJBCplJ14-0), [Final Presentation](https://www.canva.com/design/DAF3maDvjZQ/9GW_SIBZTIrSAIPXfpAOEg/edit?utm_content=DAF3maDvjZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [Ahmed Proposal](https://github.com/molab-itp/content-2023-Fa/wiki/02-Ahmed-Dadabai)[wk 14](https://github.com/Ahmed54123/Ahmed_molab-2023/tree/main/Final%20Assets), [figma mockup](https://www.figma.com/file/pD43XutC2079OJenlvmMP1/Fridge?type=design&node-id=0-1&mode=design&t=GmVAiVgbJBCplJ14-0), [Final Presentation](https://www.canva.com/design/DAF3maDvjZQ/9GW_SIBZTIrSAIPXfpAOEg/edit?utm_content=DAF3maDvjZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### swift-student-challenge
 
