@@ -83,11 +83,11 @@
 
 - https://www.kodeco.com/11609977-getting-started-with-cloud-firestore-and-swiftui
 
-  - Final project updated for current SDK in class private repo
-    - https://github.com/molab-itp/09-FireCards
+  - FireCards Firebase Console
+    - https://console.firebase.google.com/u/0/project/firecards-77c11/firestore
 
-- FireCards Firebase Console
-  - https://console.firebase.google.com/u/0/project/firecards-77c11/firestore
+- FireCards project updated for current SDK in class private repo
+  - https://github.com/molab-itp/09-FireCards
 
 ### Firebase Tutorial - MakeItSo
 
@@ -98,11 +98,11 @@
     - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/#storing-data-in-the-cloud
   - Skip
     - https://peterfriese.github.io/MakeItSo/tutorials/makeitso/02-developing-locally-with-the-emulator-suite
-  - Final project updated for current SDK in class private repo
-    - https://github.com/molab-itp/09-MakeItSo
+  - MakeItSo Firebase Console
+    - https://console.firebase.google.com/u/0/project/makeitso-faa35/firestore
 
-- MakeItSo Firebase Console
-  - https://console.firebase.google.com/u/0/project/makeitso-faa35/firestore
+- MakeItSo project updated for current SDK in class private repo
+  - https://github.com/molab-itp/09-MakeItSo
 
 ## combine-vs-async docs
 
