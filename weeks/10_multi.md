@@ -16,6 +16,14 @@
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
 
+## Guest App
+
+- [supertutorai/demoproject](https://github.com/supertutorai/demoproject)
+
+- https://aisupertutor.web.app/
+
+- https://github.com/supertutorai
+
 ## MoGallery App
 
 - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
