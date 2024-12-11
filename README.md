@@ -18,6 +18,9 @@ We aim to create distributed instruments for computed expression.
 Full-time access to an iOS device and a Mac laptop computer
 running the latest operating system and development tools are required.
 
+<!-- A modern mac laptop computer with ample free hard drive space
+is recommended to run Xcode efficiently. -->
+
 Prereq:
 Some programming experience (such as ICM) and willingness to learn Apple's Swift programming language.
 
